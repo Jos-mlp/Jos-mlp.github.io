@@ -1,0 +1,13 @@
+body{
+    background: #AEB6BF;
+}
+#section{
+    display: flex;
+    justify-content: center;
+}
+#card{
+    width: 450px;
+    height: 700px;
+    background: white;
+    border-radius: 40px;
+}
