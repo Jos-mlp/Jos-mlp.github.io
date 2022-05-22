@@ -41,6 +41,32 @@ body{
     z-index: 4;
     width: 20px;
     top: 520px;
+    left: 40px;
+}
+
+#card #imgLink{
+    z-index: 5;
+    width: 20px;
+    top: 520px;
+    left: 210px;
+}
+#card #imgGit{
+    z-index: 6;
+    width: 30px;
+    top: 600px;
+    left: 100px;
+}
+#card #imgIg{
+    z-index: 6;
+    width: 30px;
+    top: 600px;
+    left: 200px;
+}
+#card #imgYouTube{
+    z-index: 6;
+    width: 30px;
+    top: 600px;
+    left: 300px;
 }
 #card img{
     position: absolute;
@@ -60,5 +86,17 @@ body{
     top:380px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
-    left: 40px;
+    left: 45px;
+}
+#card .location{
+    position:absolute;
+    top: 505px;
+    left: 65px;
+    color:white;
+}
+#card .link{
+    position:absolute;
+    top: 521px;
+    left: 235px;
+    color:white; 
 }
