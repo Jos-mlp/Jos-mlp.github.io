@@ -1,35 +1,21 @@
-# Portafolio Web
+# Portafolio WEB
 
-Este es el repositorio de mi portafolio web, donde comparto información sobre mí y muestro algunos de mis proyectos.
+Este es un proyecto de portafolio web personal que muestra mi perfil como desarrollador, mis habilidades y algunos proyectos que he realizado.
 
-## Contenido
+link: https://jos-mlp.github.io/
 
-- [Demostración](#demostración)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Cómo Usar](#cómo-usar)
-- [Capturas de Pantalla](#capturas-de-pantalla)
-- [Licencia](#licencia)
+## Descripción
 
-## Demostración
+El Portafolio WEB es una plataforma diseñada para presentar mi perfil como desarrollador, mostrar mis habilidades técnicas, y exhibir algunos de los proyectos en los que he trabajado. Este proyecto está desarrollado utilizando HTML, CSS y JavaScript.
 
-Link : https://jos-mlp.github.io/
+## Requisitos
 
-## Tecnologías Utilizadas
+No hay requisitos específicos para ejecutar este proyecto. Puedes visualizar el portafolio en cualquier navegador web moderno.
 
-- HTML
-- CSS
-- JavaScript
+## Contribución
 
+Actualmente, no se aceptan contribuciones externas en este proyecto.
 
-## Cómo Usar
+## Licencia
 
-1. Clona este repositorio: `git clone https://github.com/tuusuario/tu-portafolio.git`
-2. Abre el archivo `index.html` en tu navegador.
-
-
-## Capturas de Pantalla
-
-Inserta algunas capturas de pantalla de tu portafolio para que los visitantes puedan ver rápidamente cómo se ve.
-
-
-
+Este proyecto no tiene una licencia específica. Todos los derechos están reservados.
